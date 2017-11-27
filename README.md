@@ -1,4 +1,4 @@
-Bitcoin Pork project
+Bitcoin Pork Project
 =====================================
 
 [![Build Status](https://travis-ci.org/bitcoin/bitcoin.svg?branch=master)](https://travis-ci.org/bitcoin/bitcoin)
